@@ -12,11 +12,12 @@ The data is composed of:
 - liked_artworks_idVisitor.csv: artworks liked by the visitor on the web platform.
 - idVisitor_trajInfo: global information of the trajectory (duration, speed, length, number of stops and number of items seen).
 
-LICENCE:
+LICENSE:
 
-This dataset is currently under the CC-BY-NC-SA Licence. 
+This dataset is currently under the CC-BY-NC-SA License. 
 
 REFERENCE:
+
 If you find this dataset useful in your research, then please cite:
 Alexanne Worm, Florian Marchal, and Sylvain Castagnos. 2025. BIRD: A
 Museum Open Dataset Combining Behavior Patterns and Identity Types to
