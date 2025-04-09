@@ -1,6 +1,6 @@
-# GIFT dataset
+# BIRD dataset
 
-Example of one instance of the GIFT dataset.
+Example of one instance of the BIRD dataset. There are 51 visitor identities in total that will be made available in case of the paper acceptance.
 
 
 The data is composed of: 
@@ -10,4 +10,18 @@ The data is composed of:
 - idVisitor_traj_normalized.csv: normalized trajectory of the visitor.
 - idVisitor_traj_raw.csv: raw trajectory of the visitor.
 - liked_artworks_idVisitor.csv: artworks liked by the visitor on the web platform.
-- idVisitor_trajInfo: global information of the trajectory (duration, speed, length, number of stops and number of items seen). 
+- idVisitor_trajInfo: global information of the trajectory (duration, speed, length, number of stops and number of items seen).
+
+LICENCE:
+
+This dataset is currently under the CC-BY-NC-SA Licence. 
+
+REFERENCE:
+If you find this dataset useful in your research, then please cite:
+Alexanne Worm, Florian Marchal, and Sylvain Castagnos. 2025. BIRD: A
+Museum Open Dataset Combining Behavior Patterns and Identity Types to
+Better Model Visitors’ Experience. In . ACM, New York, NY, USA, 4 pages.
+https://doi.org/10.1145/nnnnnnn.nnnnnnn
+
+
+
