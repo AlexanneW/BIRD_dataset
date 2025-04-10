@@ -11,6 +11,8 @@ The data is composed of:
 - idVisitor_traj_raw.csv: raw trajectory of the visitor.
 - liked_artworks_idVisitor.csv: artworks liked by the visitor on the web platform.
 - idVisitor_trajInfo: global information of the trajectory (duration, speed, length, number of stops and number of items seen).
+- post_questionnaire.pdf: questions asked to the visitor after their visit.
+- pre_questionnaire.pdf: questions asked to the visitor before the beginning of their visit.
 
 LICENSE:
 
